@@ -1,0 +1,5 @@
+
+interface CustomPaperProps {
+    maxWidth: number;
+    
+}
